@@ -14,7 +14,7 @@ const StripeCheckoutButton = ({ price }) => {
   return (
     <StripeCheckout
       label="Pay Now"
-      name="Royal Emporium"
+      name="Merewolf Emporium"
       billingAddress
       shippingAddress
       image="https://svgshare.com/i/CUz.svg"
